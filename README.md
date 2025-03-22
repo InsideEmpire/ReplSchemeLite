@@ -13,8 +13,5 @@ ReplSchemeLite
 │── pair.py                 # Defines the Pair class and the nil object  
 │── ucb.py                  # Utility functions for 61A projects  
 │── questions.scm           # Scheme procedures for implementation (lab/homework style)  
-│── tests.scm               # Collection of test cases written in Scheme  
-│── mytests.rst             # File to add custom tests  
-│── ok                      # The autograder  
-└── tests/                  # Directory containing tests used by "ok"
+└── tests.scm               # Collection of test cases written in Scheme  
 ```
